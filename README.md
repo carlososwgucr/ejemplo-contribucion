@@ -1,6 +1,6 @@
 # Mi Proyecto Increíble
 
-Este proyecto demuestra cómo usar **Pythonn** para crear scripts automatizados.
+Este proyecto demuestra cómo usar **Python** para crear scripts automatizados.
 
 ## Instalación
 
